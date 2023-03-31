@@ -33,4 +33,4 @@ The MaxDepth class contains a single method maxDepth(Node root) which calculates
 binary tree (i.e. the number of nodes on the longest path from the root to the leaf)
 
 ## Tests
-There are two unit tests provided
+There are two unit test files provided: ArraySortTest and FindElemTest 
